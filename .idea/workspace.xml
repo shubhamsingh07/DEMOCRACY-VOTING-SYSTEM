@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27f7878c-47a0-4c27-ae3b-3bbe172162ef" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_pass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home_hindi.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-345">
+              <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/results.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/vote.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="67" column="52" lean-forward="true" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Vote/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="251">
+              <caret line="71" column="51" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/voted.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Creat</find>
+      <find>Doo</find>
+      <find>Doodle</find>
+      <find>login</find>
+      <find>css</find>
+      <find>matplotli</find>
+      <find>he online voting website Chunaav was founded in Switzerland in 2007 and just two years later was named one of the best in the category Web Services &amp; Applications of the 13th Annual Webby Awards.Moreover, Doodle has been pleasing millions of users for quite some time: t</find>
+      <find>/home/mayank/HCI/Vote/static/Vote</find>
+      <find>graph could not be loa</find>
+      <find>the most</find>
+      <find>Designed By The Chunaav Te</find>
+      <find>eng</find>
+      <find>chun</find>
+      <find>chuna</find>
+      <find>German</find>
+      <find>Please select a candidate from each category.Thank yo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Vote/admin.py" />
+        <option value="$PROJECT_DIR$/HCI/urls.py" />
+        <option value="$PROJECT_DIR$/Vote/urls.py" />
+        <option value="$PROJECT_DIR$/HCI/settings.py" />
+        <option value="$PROJECT_DIR$/Vote/models.py" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/home_hindi.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/home_spanish.html" />
+        <option value="$PROJECT_DIR$/Vote/static/Vote/credits.css" />
+        <option value="$PROJECT_DIR$/Vote/static/Vote/home.css" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/login.css.html" />
+        <option value="$PROJECT_DIR$/Vote/static/Vote/login.css" />
+        <option value="$PROJECT_DIR$/Vote/static/Vote/voting_area.css" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/login.html" />
+        <option value="$PROJECT_DIR$/Vote/views.py" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/about.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/home_german.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/vote.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/voted.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/results.html" />
+        <option value="$PROJECT_DIR$/Vote/templates/Vote/home.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="651" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Online-Voting-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online-Voting-System" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online-Voting-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online-Voting-System" type="462c0819:PsiDirectoryNode" />
+              <item name="HCI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Online-Voting-System" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Online-Voting-System" type="462c0819:PsiDirectoryNode" />
+              <item name="Vote" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Vote/static/Vote" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Vote/static/Vote" />
+      <recent name="$PROJECT_DIR$/Vote/templates/Vote" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="HCI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/coder/aws-sc-worker/lambda-venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f7878c-47a0-4c27-ae3b-3bbe172162ef" name="Default" comment="" />
+      <created>1524458716430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524458716430</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1360" height="768" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.25690815" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Python Console" order="0" weight="0.3295129" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295129" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39971346" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>62</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>100</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Vote/views.py</url>
+          <line>70</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>c.no_of_candidates</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>SELECT &quot;Vote_candidate&quot;.&quot;id&quot;, &quot;Vote_candidate&quot;.&quot;candidate_id&quot;, &quot;Vote_candidate&quot;.&quot;name&quot;, &quot;Vote_candidate&quot;.&quot;Description&quot;, &quot;Vote_candidate&quot;.&quot;image&quot;, &quot;Vote_candidate&quot;.&quot;votes&quot; FROM &quot;Vote_candidate&quot; WHERE &quot;Vote_candidate&quot;.&quot;candidate_id&quot; = 2</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>candidate.query</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>candidate</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Candidate.objects</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>candidate.</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>pos</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.id</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HCI/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home_spanish.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/static/Vote/home.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/login.css.html" />
+    <entry file="file://$PROJECT_DIR$/Vote/static/Vote/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="581">
+          <caret line="97" column="1" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/static/Vote/credits.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/static/Vote/voting_area.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="3" column="14" lean-forward="true" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/static/Vote/Result.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HCI/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.sqlite3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home_german.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="30" column="62" selection-start-line="30" selection-start-column="62" selection-end-line="30" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home_hindi.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/voted.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="39" column="36" lean-forward="true" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-345">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/results.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_pass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/templates/Vote/vote.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="67" column="52" lean-forward="true" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vote/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="71" column="51" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
